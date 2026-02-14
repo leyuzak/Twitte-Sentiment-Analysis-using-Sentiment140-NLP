@@ -7,10 +7,7 @@ The project includes data exploration, preprocessing, baseline model training, a
 
 ---
 
-## Project Links
-
-- **Hugging Face Space (Streamlit App):**  
-  https://huggingface.co/spaces/leyuzak/Twitter-Sentiment-Analysis-NLP
+## Project Link
 
 - **Kaggle Notebook (Model Training & EDA):**  
   https://www.kaggle.com/code/leyuzakoksoken/twitter-sentiment-analysis-using-sentiment140
